@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProjetoGFT_Abstraindo_Jogo_RPG/1.0.0": {
+        "runtime": {
+          "ProjetoGFT_Abstraindo_Jogo_RPG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoGFT_Abstraindo_Jogo_RPG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

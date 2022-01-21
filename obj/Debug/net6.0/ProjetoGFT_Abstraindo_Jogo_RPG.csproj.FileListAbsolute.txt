@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\bin\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.exe
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\bin\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.deps.json
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\bin\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\bin\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.dll
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\bin\Debug\net6.0\ref\ProjetoGFT_Abstraindo_Jogo_RPG.dll
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\bin\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.pdb
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\obj\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\obj\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\obj\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\obj\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\obj\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\obj\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.dll
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\obj\Debug\net6.0\ref\ProjetoGFT_Abstraindo_Jogo_RPG.dll
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\obj\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.pdb
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\ProjetoGFT_Abstraindo_Jogo_RPG\obj\Debug\net6.0\ProjetoGFT_Abstraindo_Jogo_RPG.genruntimeconfig.cache
